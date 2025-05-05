@@ -1,0 +1,8 @@
+.admin-header {
+    background: #3b82f6;
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
